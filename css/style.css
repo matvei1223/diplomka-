@@ -4772,3 +4772,13 @@ section {
 		background-position: center;
 	}
 }
+.hschtopisati{
+	cursor: pointer;
+}
+}
+.hschtopisati{
+	cursor: pointer;
+}
+.tabs-menu>.current{
+   color:#C19D60;	
+} 
